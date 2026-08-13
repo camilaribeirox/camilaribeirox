@@ -66,15 +66,4 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=3" />
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilaribeirox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165">
-  <img src="https://streak-stats.demolab.com/?user=camilaribeirox&theme=tokyonight&hide_border=true&background=00000000" height="165">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaribeirox&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165">
-</p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=100&section=footer" />
-
 <p align="center"><i>Aberta a oportunidades e colaborações em desenvolvimento web, dados e demais vertentes da tecnologia. ✨</i></p>
